@@ -1,12 +1,8 @@
 # GTA 6 Meme — The Ghost Waited 0 Days to Get Paid
 
-[![make.fun](https://make.fun/badge/gta6-meme-x-01/pusaka99/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
-[![make.fun rank](https://make.fun/badge/gta6-meme-x-01/pusaka99/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
-[![make.fun reward](https://make.fun/badge/gta6-meme-x-01/pusaka99/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
-
-> **Note:** the badge owner/repo above (`pusaka99` / `gta6-meme-x-01`) are
-> placeholders to confirm — the public GitHub repo has not been created yet.
-> They will be updated to the real owner/repo before submission.
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/pusaka99/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/pusaka99/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 ## The joke
 
@@ -31,7 +27,7 @@ bounty, and get paid.
 - `meme.png` — the meme itself (square PNG, made with AI image generation
   in this session; the ghost is drawn from make.fun's press-kit mascot).
 - `POST.json` — the address of the X post carrying the meme
-  (placeholder until the post goes live).
+  (https://x.com/lubangkerut/status/2123473416867250444).
 - `main.ts` — the entry program: it copies `POST.json` into the output
   directory, nothing else.
 
